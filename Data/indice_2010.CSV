@@ -1,12 +1,5 @@
 INDICE DE CALIDAD DEL AIRE
-city: Ciudad de M&eacute;xico
-cityCode: MEX
-country: M&eacute;xico
-mesurementAgency: SIMAT
-URL: http://www.aire.df.gob.mx
-timeStamp:	2010/01/01 al 2010/12/31
-average_interval: 001h
-Fecha,Hora,Noroeste Ozono,Noroeste di髕ido de azufre,Noroeste di髕ido de nitr骻eno,Noroeste mon髕ido de carbono,Noroeste PM10,Noreste Ozono,Noreste di髕ido de azufre,Noreste di髕ido de nitr骻eno,Noreste mon髕ido de carbono,Noreste PM10,Centro Ozono,Centro di髕ido de azufre,Centro di髕ido de nitr骻eno,Centro mon髕ido de carbono,Centro PM10,Suroeste Ozono,Suroeste di髕ido de azufre,Suroeste di髕ido de nitr骻eno,Suroeste mon髕ido de carbono,Suroeste PM10,Sureste Ozono,Sureste di髕ido de azufre,Sureste di髕ido de nitr骻eno,Sureste mon髕ido de carbono,Sureste PM10,,,,,
+Fecha,Hora,Noroeste Ozono,Noroeste di贸xido de azufre,Noroeste di贸xido de nitr贸geno,Noroeste mon贸xido de carbono,Noroeste PM10,Noreste Ozono,Noreste di贸xido de azufre,Noreste di贸xido de nitr贸geno,Noreste mon贸xido de carbono,Noreste PM10,Centro Ozono,Centro di贸xido de azufre,Centro di贸xido de nitr贸geno,Centro mon贸xido de carbono,Centro PM10,Suroeste Ozono,Suroeste di贸xido de azufre,Suroeste di贸xido de nitr贸geno,Suroeste mon贸xido de carbono,Suroeste PM10,Sureste Ozono,Sureste di贸xido de azufre,Sureste di贸xido de nitr贸geno,Sureste mon贸xido de carbono,Sureste PM10,,,,,
 01/01/2010,1,5,8,22,16,61,14,6,27,14,89,2,6,27,14,50,5,6,26,17,46,7,5,25,21,52,,,,,
 01/01/2010,2,8,8,22,17,66,18,6,26,15,92,4,7,24,14,52,6,7,23,17,53,6,5,23,23,52,,,,,
 01/01/2010,3,15,8,24,18,72,26,6,16,14,95,5,7,21,14,55,15,7,20,17,60,7,5,21,24,53,,,,,
